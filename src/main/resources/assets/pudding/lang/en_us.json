@@ -1,0 +1,11 @@
+{
+  "key.pudding.openmenu": "PuddingMenu",
+  "gui.pudding.title": "PuddingChatGui",
+  "message.pudding.join.connecting": "§7[§5P§7] §aYou are currently connected.",
+  "message.pudding.join.non-connection": "§7[§5P§7] §cYou are not connected.",
+  "message.pudding.info.disconnect": "§7[§5P§7] §r You are disconnected from the session.",
+  "message.pudding.error.disconnect": "§7[§5P§7] §4An error has occurred and the connection has been terminated.",
+  "message.pudding.error.not-connecting": "§7[§5P§7] §4You are not connected.",
+  "message.pudding.error.send": "§7[§5P§7] §4Failed to send message to the ws server!",
+  "message.pudding.error.connect": "§7[§5P§7] §4An error occurred while connecting to the ws server!"
+}
