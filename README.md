@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-    PuddingChat v1<img src="https://i.imgur.com/H8E8vtx.png" width="60" height="60">
+    PuddingChat <img src="https://i.imgur.com/H8E8vtx.png" width="60" height="60">
 </h1>
 <a href="https://github.com/javascriptjp/private-chat/archive/refs/tags/PuddingChat.jar">
     <img alt="download-latest" src="https://img.shields.io/badge/download-latest-yellowgreen">
